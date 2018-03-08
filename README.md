@@ -16,6 +16,11 @@ Among other things that we are testing with collaborators.
 
 T.rex_scan was created with the aim of speeding up the analysis process of the web pages and then having their vulnerabilities remedied.
 
+Before using the script you must have updated Kali linux
+
+Run
+- pip install tqdm
+
 <a href="https://ibb.co/cbeGq7"><img src="https://preview.ibb.co/jBu5iS/1.png" alt="1" border="0"></a><br /><a target='_blank' href=''></a><br />
 
 Analyzing the website
