@@ -53,3 +53,8 @@ The logs can be analyzed also without the tool
 Acknowledgments to: @elcodigok @ Sebastianf94 @LuisRamirezMe @whitepadawan
 
 Thanks for your contributions.
+
+My data:
+
+- sysvd@protonmail.com
+- Twitter @DaveNISC
