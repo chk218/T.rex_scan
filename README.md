@@ -1,7 +1,7 @@
 # T.rex_scan
 Script in its version 0.1, T.rex_scan only facilitates the visualization when auditing a web page, its next versions will allow the researcher to make attacks and generate reports with just one click
 
-T.rex_scan.py is the automation of different tools, initially you can scan a web page and deliver in order the CVEs, Ports, Vulnerabilities, Links, WordPress version, server IP, server location, etc.
+the automation of different tools, initially you can scan a web page and deliver in order the CVEs, Ports, Vulnerabilities, Links, WordPress version, server IP, server location, etc.
 
 <h2>Final version </h2>
 
