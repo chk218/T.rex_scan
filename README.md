@@ -24,7 +24,7 @@ Before using the script you must have updated Kali linux
 Run
 - pip install -r requirements.txt 
 
-<a href="https://ibb.co/cbeGq7"><img src="https://preview.ibb.co/jBu5iS/1.png" alt="1" border="0"></a><br /><a target='_blank' href=''></a><br />
+<a href="https://ibb.co/eEMVuc"><img src="https://preview.ibb.co/mB1Vuc/actualizacion.png" alt="actualizacion" border="0"></a>
 
 Analyzing the website
 
