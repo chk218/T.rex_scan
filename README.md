@@ -1,5 +1,5 @@
 # T.rex_scan
-Script in its version 0.1, T.rex_scan only facilitates the visualization when auditing a web page, its next versions will allow the researcher to make attacks and generate reports with just one click
+Script in its version 0.2, T.rex_scan only facilitates the visualization when auditing a web page, its next versions will allow the researcher to make attacks and generate reports with just one click
 
 the automation of different tools, initially you can scan a web page and deliver in order the CVEs, Ports, Vulnerabilities, Links, WordPress version, server IP, server location, etc.
 
@@ -9,9 +9,12 @@ It is expected that this script in its next versions will analyze a web page and
 
 <h2>Improvements that will be implemented:</h2>
 
-* Attacks on open ports
-* Mapping
-* Show when a CVE has xploits available
+[!]  Show the vulnerabilities of the audited page
+[!]  Launch a port scan
+[!]  Show the CVEs associated with the page
+[!]  Search for emails associated with the domain
+[!]  It shows the IP address and the hosting server location
+
 Among other things that we are testing with collaborators.
 
 T.rex_scan was created with the aim of speeding up the analysis process of the web pages and then having their vulnerabilities remedied.
@@ -19,7 +22,7 @@ T.rex_scan was created with the aim of speeding up the analysis process of the w
 Before using the script you must have updated Kali linux
 
 Run
-- pip install tqdm
+- pip install -r requirements.txt 
 
 <a href="https://ibb.co/cbeGq7"><img src="https://preview.ibb.co/jBu5iS/1.png" alt="1" border="0"></a><br /><a target='_blank' href=''></a><br />
 
