@@ -26,6 +26,8 @@ Run
 
 <a href="https://ibb.co/eEMVuc"><img src="https://preview.ibb.co/mB1Vuc/actualizacion.png" alt="actualizacion" border="0"></a>
 
+<a href="https://ibb.co/jSLFuc"><img src="https://preview.ibb.co/n2eVSx/details_new.png" alt="details_new" border="0"></a>
+
 Analyzing the website
 
 <a href="https://ibb.co/fTLZtS"><img src="https://preview.ibb.co/ewk0YS/2.png" alt="2" border="0"></a><br /><a target='_blank' href=''></a><br />
