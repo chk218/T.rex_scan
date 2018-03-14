@@ -9,11 +9,11 @@ It is expected that this script in its next versions will analyze a web page and
 
 <h2>Improvements that will be implemented:</h2>
 
-[!]  Show the vulnerabilities of the audited page
-[!]  Launch a port scan
-[!]  Show the CVEs associated with the page
-[!]  Search for emails associated with the domain
-[!]  It shows the IP address and the hosting server location
+ * Show the vulnerabilities of the audited page
+ * Launch a port scan
+ * Show the CVEs associated with the page
+ * Search for emails associated with the domain
+ * It shows the IP address and the hosting server location
 
 Among other things that we are testing with collaborators.
 
