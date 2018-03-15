@@ -32,11 +32,11 @@ It is important to keep in mind that if you are going to use Kali linux you shou
 
 Installation / use
 
-git clone https://github.com/davenisc/T.rex_scan/tree/0.2
-cd T.rex_scan
-pip install -r requirements.txt
-python T.rex_scan.py
-option 5 for more details of T.rex_scan
+* git clone https://github.com/davenisc/T.rex_scan/tree/0.2
+* cd T.rex_scan
+* pip install -r requirements.txt
+* python T.rex_scan.py
+* option 5 for more details of T.rex_scan
 
 <a href="https://ibb.co/eEMVuc"><img src="https://preview.ibb.co/mB1Vuc/actualizacion.png" alt="actualizacion" border="0"></a>
 
