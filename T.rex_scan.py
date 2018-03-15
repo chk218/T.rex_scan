@@ -15,8 +15,8 @@ from tqdm import tqdm
 
 
 def almacenardatos():
-    """a='cualquier cosa'
-    print('si funciona esta chimbada')
+    """a='c'
+    print('s')
     return a"""
     init()
     print (Fore.WHITE +"_____________________________________________________________________________________________________________________\n")
