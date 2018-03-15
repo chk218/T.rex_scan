@@ -1,19 +1,20 @@
 # T.rex_scan
 Script in its version 0.2, T.rex_scan only facilitates the visualization when auditing a web page, its next versions will allow the researcher to make attacks and generate reports with just one click
 
-the automation of different tools, initially you can scan a web page and deliver in order the CVEs, Ports, Vulnerabilities, Links, WordPress version, server IP, server location, etc.
+
+With this script you can optimize your time, reducing the time you audit a page web since T.rex_scan executes the task you indicate and filters the results. the idea was born when We had to audit a web page and we had to open many consoles to run tool per tool, in addition to this we had to analyze the logs one by one and take out the information that we needed, T.rex_scan is a Swiss Army knife has several tools for daily use and filters the results.
 
 <h2>Final version </h2>
 
 It is expected that this script in its next versions will analyze a web page and if this is vulnerable the attack to get access to your passwords and information, will finally deliver a report with what was found in the analysis.
 
 <h2>Improvements that will be implemented:</h2>
-
- * Show the vulnerabilities of the audited page
- * Launch a port scan
- * Show the CVEs associated with the page
- * Search for emails associated with the domain
- * It shows the IP address and the hosting server location
+ 
+* Shows vulnerabilities of the audited page
+* Launch a port scan
+* Shows the CVEs associated with the vulnerabilities of the page
+* Search for emails associated with the domain
+* Shows the IP address and hosting server location
 
 Among other things that we are testing with collaborators.
 
