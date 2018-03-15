@@ -16,14 +16,27 @@ It is expected that this script in its next versions will analyze a web page and
 * Search for emails associated with the domain
 * Shows the IP address and hosting server location
 
-Among other things that we are testing with collaborators.
+This script makes use of and depends on the following tools for its operation:
 
-T.rex_scan was created with the aim of speeding up the analysis process of the web pages and then having their vulnerabilities remedied.
+* WPScan V 2.9.3
+* Nmap V 7.60
+* Theharvester V 2.7
+* WhatWeb V 0.4.9
+* Colorama
+* tqdm
 
-Before using the script you must have updated Kali linux
 
-Run
-- pip install -r requirements.txt 
+This script makes use of regular expressions to filter the data that we need, use of the libraries (os, time, re, time, color, tqdm and sleep)
+
+It is important to keep in mind that if you are going to use Kali linux you should only install the tqdm library but if you are going to use Windows you must install all the libraries with the option pip install
+
+Installation / use
+
+git clone https://github.com/davenisc/T.rex_scan/tree/0.2
+cd T.rex_scan
+pip install -r requirements.txt
+python T.rex_scan.py
+option 5 for more details of T.rex_scan
 
 <a href="https://ibb.co/eEMVuc"><img src="https://preview.ibb.co/mB1Vuc/actualizacion.png" alt="actualizacion" border="0"></a>
 
