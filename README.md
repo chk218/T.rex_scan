@@ -31,7 +31,7 @@
 
 安装/使用
 
-* git clone https://github.com/davenisc/T.rex_scan/tree/0.2
+* git clone https://github.com/chk218/T.rex_scan.git
 * cd T.rex_scan
 * pip install -r requirements.txt
 * python T.rex_scan.py
