@@ -1,22 +1,22 @@
-# T.rex_scan
-Script in its version 0.2, T.rex_scan only facilitates the visualization when auditing a web page, its next versions will allow the researcher to make attacks and generate reports with just one click
+＃T.rex_scan
+脚本在其0.2版本中，T.rex_scan仅在审核网页时促进可视化，其下一版本将允许研究人员只需单击一下即可进行攻击并生成报告
 
 
-With this script you can optimize your time, reducing the time you audit a page web since T.rex_scan executes the task you indicate and filters the results. the idea was born when We had to audit a web page and we had to open many consoles to run tool per tool, in addition to this we had to analyze the logs one by one and take out the information that we needed, T.rex_scan is a Swiss Army knife has several tools for daily use and filters the results.
+使用此脚本，您可以优化时间，减少审核页面Web的时间，因为T.rex_scan执行您指定的任务并过滤结果。当我们不得不审计一个网页并且我们不得不打开许多控制台来运行每个工具的工具时，这个想法诞生了，除此之外我们必须逐个分析日志并获取我们需要的信息，T.rex_scan瑞士军刀是一种日常使用的工具，可以过滤结果。
 
-<h2>Final version </h2>
+<h2>最终版</ h2>
 
-It is expected that this script in its next versions will analyze a web page and if this is vulnerable the attack to get access to your passwords and information, will finally deliver a report with what was found in the analysis.
+预计该下一版本的脚本将分析一个网页，如果这是易受攻击的，那么访问您的密码和信息的攻击将最终提供一份报告，其中包含分析中的内容。
 
-<h2>Improvements that will be implemented:</h2>
+<h2>将实施的改进：</ h2>
  
-* Shows vulnerabilities of the audited page
-* Launch a port scan
-* Shows the CVEs associated with the vulnerabilities of the page
-* Search for emails associated with the domain
-* Shows the IP address and hosting server location
+*显示审计页面的漏洞
+*启动端口扫描
+*显示与页面漏洞相关的CVE
+*搜索与域关联的电子邮件
+*显示IP地址和托管服务器位置
 
-This script makes use of and depends on the following tools for its operation:
+此脚本使用并依赖于以下工具进行操作：
 
 * WPScan V 2.9.3
 * Nmap V 7.60
@@ -25,12 +25,11 @@ This script makes use of and depends on the following tools for its operation:
 * Colorama
 * tqdm
 
+这个脚本利用正则表达式来过滤我们需要的数据，使用库（os，time，re，time，color，tqdm和sleep）
 
-This script makes use of regular expressions to filter the data that we need, use of the libraries (os, time, re, time, color, tqdm and sleep)
+重要的是要记住，如果你打算使用Kali linux，你应该只安装tqdm库，但是如果要使用Windows，你必须使用选项pip install安装所有库。
 
-It is important to keep in mind that if you are going to use Kali linux you should only install the tqdm library but if you are going to use Windows you must install all the libraries with the option pip install
-
-Installation / use
+安装/使用
 
 * git clone https://github.com/davenisc/T.rex_scan/tree/0.2
 * cd T.rex_scan
@@ -67,13 +66,16 @@ The logs can be analyzed also without the tool
 <a href="https://ibb.co/cuxQiS"><img src="https://preview.ibb.co/nKxQiS/8.png" alt="8" border="0"></a><br /><a target='_blank' href=''></a><br />
 
 
-"The wheel is already invented, so that invent it again? If it is already created we can use it to go faster."
+“车轮已经发明了，所以再次发明它？如果它已经被创造出来，我们可以用它来加快速度。”
 
-Acknowledgments to: @elcodigok @ Sebastianf94 @LuisRamirezMe @whitepadawan
+致谢：@elcodigok @ Sebastianf94 @LuisRamirezMe @whitepadawan
 
-Thanks for your contributions.
+谢谢你的贡献。
 
-My data:
-
+我的信息：
 - sysvd@protonmail.com
 - Twitter @DaveNISC
+
+<br>
+汉化：Shihun<br>
+博客：<a href="https://blog.csdn.net/chk218">点击访问</a>
